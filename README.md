@@ -1,6 +1,6 @@
 <div align="center">
 
-# Esneider Ríos Benavides
+# Esneider Ríos
 
 **Statistician · Data Products · LegalTech**
 
