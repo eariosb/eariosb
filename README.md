@@ -16,9 +16,9 @@
 
 ## About
 
-I'm a statistician from Universidad Nacional de Colombia, focused on turning complex data into reliable, interpretable products. My work sits at the intersection of Bayesian inference, applied machine learning, and software engineering — from modeling to deployment.
+I'm a statistician from Universidad Nacional de Colombia, focused on turning complex data into reliable, interpretable products. My work sits at the intersection of inference, applied computational methods, and software engineering, from modeling to deployment.
 
-Currently building data products in the **LegalTech** space: applying NLP, jurimetrics, and predictive modeling to legal workflows.
+Currently building data products in the **LegalTech** space: applying NLP (Natural Languaje Processing), jurimetrics, and compliance.
 
 ---
 
